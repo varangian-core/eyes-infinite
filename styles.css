@@ -44,7 +44,7 @@ body {
 body {
     margin: 0;
     padding: 0;
-    background: #000000 url("blob/main/img/background.jpg") center center/cover no-repeat;
+    background: #000000 url("docs/assets/background.jpg") center center/cover no-repeat;
     display: flex;
     overflow: hidden;
     justify-content: space-evenly;
